@@ -1,5 +1,5 @@
 id	datetime	debit	credit	reference	description
 1	2014-09-30T04:48:44.743Z	10800	0	300-1	Starting capital
 2	2014-09-30T04:59:57.692Z	0	4610	600-1	October rent
-3	2014-09-30T05:02:36.360Z	50	0		
-4	2014-09-30T05:03:37.969Z	0	50		
+5	2014-10-01T18:29:46.042Z	0.02	0	400-2	Airbnb payment verification
+6	2014-10-01T18:52:31.746Z	657.15	0	202-1	Prepaid Max October rent (15 days)

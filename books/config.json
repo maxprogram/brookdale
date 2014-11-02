@@ -32,6 +32,11 @@
       "credit": "payables"
     },
     {
+      "name": ["pay_bill"],
+      "debit": "payables",
+      "credit": "expenses"
+    },
+    {
       "name": ["property","pp&e","equipment","capex"],
       "debit": "property",
       "credit": "cash"

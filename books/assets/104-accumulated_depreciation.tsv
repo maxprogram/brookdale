@@ -1,3 +1,4 @@
 id	datetime	debit	credit	reference	description
 1	2014-10-01T19:12:12.398Z	0	825.76		Depreciation up to 9/1/2014
 2	2014-10-01T19:17:59.905Z	0	275.25	601-1	September depreciation
+3	2014-11-02T18:50:45.029Z	0	275.25	601-2	October depreciation

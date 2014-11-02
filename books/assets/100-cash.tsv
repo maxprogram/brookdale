@@ -4,3 +4,10 @@ id	datetime	debit	credit	reference	description
 5	2014-10-01T18:29:46.042Z	0.02	0	400-2	Airbnb payment verification
 6	2014-10-01T18:52:31.746Z	657.15	0	202-1	Prepaid Max October rent (15 days)
 7	2014-10-04T15:10:39.126Z	0	139.64	600-3	Guest room bed spreads, lamp, pillows
+8	2014-11-02T18:34:33.707Z	0	55.95	600-4	Groceries
+9	2014-11-02T18:45:10.758Z	149	0	400-4	Airbnb: ...
+10	2014-11-02T18:45:45.774Z	231	0	400-5	Airbnb: Leni1
+11	2014-11-02T18:46:10.176Z	190	0	400-6	Airbnb: Scott
+12	2014-11-02T18:46:38.296Z	147	0	400-7	Airbnb: Vanessa
+13	2014-11-02T18:47:55.364Z	0	33.87	600-6	Comcast
+14	2014-11-02T18:48:17.345Z	0	4600	600-7	November rent

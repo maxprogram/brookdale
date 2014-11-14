@@ -5,6 +5,16 @@
       "debit": "cash",
       "credit": "sales",
       "description": "Cash sale"
+    },{
+      "name": ["rent:airbnb"],
+      "debit": "wells_fargo",
+      "credit": "sales",
+      "description": "Airbnb rent to WF account"
+    },{
+      "name": ["rent:founder"],
+      "debit": "cash",
+      "credit": "founder_rent",
+      "description": "Founder rent to cash"
     },
     {
       "name": ["deferred","deferred_sale","deferred_revenue"],
@@ -49,6 +59,18 @@
     {
       "name": ["deposit"],
       "debit": "wells_fargo",
+      "credit": "cash"
+    },{
+      "name": ["pay:rent"],
+      "debit": "rent",
+      "credit": "wells_fargo"
+    },{
+      "name": ["pay:comcast"],
+      "debit": "utilities",
+      "credit": "wells_fargo"
+    },{
+      "name": ["pay:electric"],
+      "debit": "utilities",
       "credit": "cash"
     }
   ]

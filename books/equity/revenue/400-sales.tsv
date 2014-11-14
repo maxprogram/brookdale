@@ -1,7 +1,6 @@
 id	datetime	debit	credit	reference	description
 1	2014-09-30T04:50:00.192Z	0	900	101-1	Angel rent
 2	2014-10-01T18:29:46.042Z	0	0.02	100-5	Airbnb payment verification
-3	2014-11-02T18:38:07.006Z	0	657.15		Recognize Max revenue
 4	2014-11-02T18:45:10.758Z	0	149	100-9	Airbnb: ...
 5	2014-11-02T18:45:45.774Z	0	231	100-10	Airbnb: Leni1
 6	2014-11-02T18:46:10.176Z	0	190	100-11	Airbnb: Scott

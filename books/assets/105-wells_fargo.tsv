@@ -1,2 +1,6 @@
 id	datetime	debit	credit	reference	description
 1	2014-11-14T17:07:30.183Z	2734.71	0	100-15	Transfer to Wells Fargo
+2	2014-11-14T17:26:20.993Z	0.02	0	400-8	Airbnb payment verification
+3	2014-11-14T17:27:17.454Z	2383	0	400-9	Airbnb various
+4	2014-11-14T17:27:42.190Z	153	0	400-10	Airbnb: Gaston
+5	2014-11-14T17:29:59.020Z	2000	0	100-17	

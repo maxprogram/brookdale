@@ -45,6 +45,11 @@
       "name": ["depreciation","depreciate"],
       "debit": "depreciation",
       "credit": "accumulated_depreciation"
+    },
+    {
+      "name": ["deposit"],
+      "debit": "wells_fargo",
+      "credit": "cash"
     }
   ]
 }

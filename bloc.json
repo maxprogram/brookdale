@@ -1,5 +1,6 @@
 {
   "name": "brookdale",
   "description": "A new Bloctree block",
-  "created": "2014-09-30T04:47:09.407Z"
+  "created": "2014-09-30T04:47:09.407Z",
+  "bloctree": "0.0.5"
 }

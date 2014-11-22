@@ -67,7 +67,8 @@
     },{
       "name": ["pay:comcast"],
       "debit": "utilities",
-      "credit": "wells_fargo"
+      "credit": "wells_fargo",
+      "description": "Comcast"
     },{
       "name": ["pay:electric"],
       "debit": "utilities",

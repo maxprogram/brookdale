@@ -17,6 +17,12 @@
       "description": "Founder rent to cash"
     },
     {
+      "name": ["rent:founder:wf"],
+      "debit": "wells_fargo",
+      "credit": "founder_rent",
+      "description": "Founder rent to Wells Fargo"
+    },
+    {
       "name": ["deferred","deferred_sale","deferred_revenue"],
       "debit": "cash",
       "credit": "deferred_revenue"
